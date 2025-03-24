@@ -1,1 +1,1 @@
-Test out Spring AI features with OpenAPI & other LLMS
+Test out Spring AI features with OpenAI & other LLMS
